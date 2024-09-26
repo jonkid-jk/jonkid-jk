@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jonkid-jk
-- 👀 I’m interested in industrial and home automation, trading economics...
+- 👀 I’m interested in industrial and home automation
 - 🌱 I’m currently learning TwinCat3, IEC61131, IOT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... Drop a DM
 
 <!---
 jonkid-jk/jonkid-jk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
